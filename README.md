@@ -25,8 +25,10 @@
 - Data Structures & Algorithms
 - Verilog-based circuit modeling
   
-📫 GitHub: https://github.com/Sruthi_CS
+
 ## 🎯 Areas of Interest
 - Core Electronics
 - Digital Design
 - Web Development
+
+📫 GitHub: https://github.com/sruthi1821
